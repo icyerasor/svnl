@@ -1,2 +1,2 @@
 # svnl
-svn library for subdroid
+svn library for [subdroid](https://github.com/icyerasor/subdroid)
